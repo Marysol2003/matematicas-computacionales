@@ -4,3 +4,6 @@ guiones/
 # Archivos que genera Python automáticamente
 __pycache__/
 *.pyc
+
+# PDFs de entrega (se mandan por la plataforma, no van al repositorio)
+entregas/
