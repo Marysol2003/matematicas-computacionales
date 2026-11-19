@@ -1,0 +1,6 @@
+# Guiones personales para grabar los videos (no se entregan)
+guiones/
+
+# Archivos que genera Python automáticamente
+__pycache__/
+*.pyc
