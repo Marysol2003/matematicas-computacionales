@@ -4,7 +4,7 @@ Alumna: Marysol Segueda
 Materia: Matemáticas Computacionales
 
 Video con la explicación:
-- (pendiente)
+- [Ver o descargar en Google Drive](https://drive.google.com/file/d/10u7jhQWvgYcA4RrWkIkNzqt3qlLuZTel/view?usp=sharing)
 
 ## Programas
 
